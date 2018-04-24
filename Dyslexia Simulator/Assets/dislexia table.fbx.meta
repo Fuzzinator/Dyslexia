@@ -1,0 +1,221 @@
+fileFormatVersion: 2
+guid: 4adb672bb995ce44b8cf4273be70efca
+timeCreated: 1523498716
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Arrow
+    100002: Arrow_Box
+    100004: Block_Hold1
+    100006: Blocks
+    100008: Bolt
+    100010: Bolt_Box
+    100012: Box1
+    100014: Box2
+    100016: Box3
+    100018: Box4
+    100020: Box_Placements
+    100022: Boxes
+    100024: Circle
+    100026: Circle_Box
+    100028: Club
+    100030: Club_Box
+    100032: Diamond
+    100034: Diamond_Box
+    100036: //RootNode
+    100038: Heart
+    100040: Heart_Box
+    100042: Spade
+    100044: Spade_Box
+    100046: Square
+    100048: Square_Box
+    100050: Star
+    100052: Star_Box
+    100054: Table
+    100056: X
+    100058: X_Box
+    400000: Arrow
+    400002: Arrow_Box
+    400004: Block_Hold1
+    400006: Blocks
+    400008: Bolt
+    400010: Bolt_Box
+    400012: Box1
+    400014: Box2
+    400016: Box3
+    400018: Box4
+    400020: Box_Placements
+    400022: Boxes
+    400024: Circle
+    400026: Circle_Box
+    400028: Club
+    400030: Club_Box
+    400032: Diamond
+    400034: Diamond_Box
+    400036: //RootNode
+    400038: Heart
+    400040: Heart_Box
+    400042: Spade
+    400044: Spade_Box
+    400046: Square
+    400048: Square_Box
+    400050: Star
+    400052: Star_Box
+    400054: Table
+    400056: X
+    400058: X_Box
+    2300000: Arrow
+    2300002: Arrow_Box
+    2300004: Block_Hold1
+    2300006: Bolt
+    2300008: Bolt_Box
+    2300010: Box1
+    2300012: Box2
+    2300014: Box3
+    2300016: Box4
+    2300018: Circle
+    2300020: Circle_Box
+    2300022: Club
+    2300024: Club_Box
+    2300026: Diamond
+    2300028: Diamond_Box
+    2300030: Heart
+    2300032: Heart_Box
+    2300034: Spade
+    2300036: Spade_Box
+    2300038: Square
+    2300040: Square_Box
+    2300042: Star
+    2300044: Star_Box
+    2300046: Table
+    2300048: X
+    2300050: X_Box
+    3300000: Arrow
+    3300002: Arrow_Box
+    3300004: Block_Hold1
+    3300006: Bolt
+    3300008: Bolt_Box
+    3300010: Box1
+    3300012: Box2
+    3300014: Box3
+    3300016: Box4
+    3300018: Circle
+    3300020: Circle_Box
+    3300022: Club
+    3300024: Club_Box
+    3300026: Diamond
+    3300028: Diamond_Box
+    3300030: Heart
+    3300032: Heart_Box
+    3300034: Spade
+    3300036: Spade_Box
+    3300038: Square
+    3300040: Square_Box
+    3300042: Star
+    3300044: Star_Box
+    3300046: Table
+    3300048: X
+    3300050: X_Box
+    4300000: Box1
+    4300002: Box2
+    4300004: Box3
+    4300006: Box4
+    4300008: Diamond
+    4300010: Circle
+    4300012: Star
+    4300014: Square
+    4300016: Bolt
+    4300018: X
+    4300020: Club
+    4300022: Arrow
+    4300024: Spade
+    4300026: Heart
+    4300028: Table
+    4300030: Circle_Box
+    4300032: Arrow_Box
+    4300034: X_Box
+    4300036: Star_Box
+    4300038: Club_Box
+    4300040: Spade_Box
+    4300042: Diamond_Box
+    4300044: Bolt_Box
+    4300046: Heart_Box
+    4300048: Square_Box
+    4300050: Block_Hold1
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 300
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
